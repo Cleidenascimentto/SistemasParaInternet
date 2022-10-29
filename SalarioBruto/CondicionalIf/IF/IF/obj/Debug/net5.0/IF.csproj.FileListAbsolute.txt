@@ -1,0 +1,16 @@
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\bin\Debug\net5.0\IF.exe
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\bin\Debug\net5.0\IF.deps.json
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\bin\Debug\net5.0\IF.runtimeconfig.json
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\bin\Debug\net5.0\IF.runtimeconfig.dev.json
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\bin\Debug\net5.0\IF.dll
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\bin\Debug\net5.0\IF.pdb
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\IF.csproj.AssemblyReference.cache
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\IF.AssemblyInfoInputs.cache
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\IF.AssemblyInfo.cs
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\IF.csproj.CoreCompileInputs.cache
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\IF.dll
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\refint\IF.dll
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\IF.pdb
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\IF.genruntimeconfig.cache
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\SalarioBruto\CondicionalIf\IF\IF\obj\Debug\net5.0\ref\IF.dll

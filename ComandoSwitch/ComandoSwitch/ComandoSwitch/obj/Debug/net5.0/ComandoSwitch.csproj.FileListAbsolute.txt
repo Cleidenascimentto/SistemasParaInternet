@@ -1,0 +1,32 @@
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.exe
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.deps.json
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.runtimeconfig.json
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.runtimeconfig.dev.json
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.dll
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.pdb
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.csproj.AssemblyReference.cache
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.AssemblyInfoInputs.cache
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.AssemblyInfo.cs
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.dll
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\refint\ComandoSwitch.dll
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.pdb
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.genruntimeconfig.cache
+C:\Users\Cleide Nascimento\iCloudDrive\Estudando Programação_\PUC Sistemas para internet_\MF Algoritmo e Lógica de Programação_\IFAninhado\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ref\ComandoSwitch.dll
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.exe
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.deps.json
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.runtimeconfig.json
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.runtimeconfig.dev.json
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.dll
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\bin\Debug\net5.0\ComandoSwitch.pdb
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.csproj.AssemblyReference.cache
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.AssemblyInfoInputs.cache
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.AssemblyInfo.cs
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.dll
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\refint\ComandoSwitch.dll
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.pdb
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ComandoSwitch.genruntimeconfig.cache
+C:\Users\Cleide Nascimento\Desktop\SISTEMAS PARA INTERNET-PUC\MICROFUNDAMENTO-ALP\Eixo1\Etapa1\ComandoSwitch\ComandoSwitch\ComandoSwitch\obj\Debug\net5.0\ref\ComandoSwitch.dll
